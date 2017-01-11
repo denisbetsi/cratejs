@@ -19,7 +19,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "crate-connect" : "https://github.com/denisbetsi/crate-connect/tarball/master",
+    "crate-connect" : "https://github.com/denisbetsi/crate-connect/tarball/master"
   },
   "devDependencies": {
     "mocha": "1.18.x"
